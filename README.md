@@ -22,6 +22,8 @@ Feel free to ask me to send you my CV.
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+To be continued & improved...
+
 ### Contact me ✉️
 
 Feel free to drop me a line or ask me to send you my CV:
