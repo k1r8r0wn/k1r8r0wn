@@ -4,8 +4,6 @@ I'm a digital craftsman focused on Ruby/Ruby on Rails development & front-end te
 
 I very much enjoy solving different problems & most happy when I’m creating meaningful experiences. Love creating products that help people.
 
-Feel free to ask me to send you my CV.
-
 ### Mostly I've worked with ⚒️
 
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
