@@ -6,7 +6,7 @@ I very much enjoy solving different problems & most happy when I’m creating me
 
 Feel free to ask me to send you my CV.
 
-#### Mostly I've worked with:
+### Mostly I've worked with ⚒️
 
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
@@ -21,3 +21,9 @@ Feel free to ask me to send you my CV.
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+### Contact me ✉️
+
+Feel free to drop me a line or ask me to send you my CV:
+
+[![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k1r8r0wn/)
