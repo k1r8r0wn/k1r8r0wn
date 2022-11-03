@@ -25,6 +25,6 @@ To be continued & improved...
 
 ### Contact me ✉️
 
-Feel free to drop me a line or ask me to send you my CV:
+Feel free to drop me a line or ask me to send you my CV.
 
 [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k1r8r0wn/)
