@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a digital craftsman focused on Ruby/Ruby on Rails development & front-end technologies. Have almost nine years of commercial experience in web application development.
+I'm a digital craftsman focused on Ruby/Ruby on Rails development & front-end technologies. Have almost ten years of commercial experience in web application development.
 
 I very much enjoy solving different problems & most happy when I’m creating meaningful experiences. Love creating products that help people.
 
